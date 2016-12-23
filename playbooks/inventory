@@ -1,0 +1,2 @@
+[keystone]
+ks01 ansible_host=15.184.65.194
